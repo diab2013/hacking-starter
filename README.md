@@ -39,12 +39,14 @@ Starred ( :star: ) resources are ones you should definitely check out.
 * [XSS Games](https://xss-game.appspot.com/) :triangular_flag_on_post:
 * [CTF Time: All about CTF](https://ctftime.org/)
 * [Google CTF: Github repo](https://github.com/google/google-ctf) :dart:
+* [Pwnable.kr](http://pwnable.kr/)
 
 ## Learning platforms
 * [TryHackMe](https://tryhackme.com/) :triangular_flag_on_post: :star:
 * [PentesterLab](https://pentesterlab.com/) :triangular_flag_on_post: :star:
 * [Web Security Academy](https://portswigger.net/web-security) :triangular_flag_on_post: :star:
 * [Pentester Academy](https://www.pentesteracademy.com/) :dart:
+* [ROP Emporium](https://ropemporium.com/)
 
 ## Vulnerable machines
 * [Vulnhub](https://book.hacktricks.xyz/) :triangular_flag_on_post:
